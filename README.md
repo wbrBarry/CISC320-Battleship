@@ -6,7 +6,7 @@ This is the main group project for a C++ software course (software design and pr
 
 For this project, we developed a classic battleship game for Player vs. Computer and Player vs. Player using SFML Library, and we designed GUI using Aseprite. I worked as one of the software developers, working on the entity part of the project, as well as some back-end and front-end design. 
 
-A simple video demo: ![Battleship Video Demo](https://youtu.be/JmYXjjfe6AE)
+A simple video demo: [Battleship Video Demo](https://youtu.be/JmYXjjfe6AE)
 
 While this project overall is pretty simple & straightforward, my team did this mainly to learn more about C++, which we definitely succeeded in. In a few months, I learned a lot of concepts, including properly using pointers, CMAKE, refactoring & software design, thanks to our project architect, Reid. 
 
